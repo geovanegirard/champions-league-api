@@ -1,6 +1,4 @@
-import { promises } from "dns";
 import { HttpResponse } from "../models/http-response-model";
-import { stat } from "fs";
 
 export const ok = async (data:any): Promise<HttpResponse> =>{
     return{
