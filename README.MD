@@ -26,8 +26,6 @@ O projeto foi construído seguindo o padrão **N-Camadas (N-Layers)**, promovend
 - **Utils**: funções auxiliares.
 - **Data**: mock de dados em JSON.
 
-![Arquitetura N-Layers](./docs/arch.png)
-
 ---
 
 ## 📁 Estrutura de Pastas
